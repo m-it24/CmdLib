@@ -1,0 +1,7 @@
+### DATABASE COMMAND LIBRARY ###
+File system:001:dir
+Zeigt den Inhalt eines Verzeichnisses an.
+File system:001:dir --help
+Zeigt die Hilfe zu dem Befehl dir unter Linux an.
+File system:001:dir /?
+Zeigt die Hilfe zu dem Befehl dir unter Windows an.
